@@ -5,4 +5,8 @@ permalink: /papers/
 author_profile: true
 ---
 
-Hello, papers!
+{% include base_path %}
+
+{% for post in site.papers %}
+  {% include archive-single.html %}
+{% endfor %}

@@ -1,4 +1,6 @@
 ---
+layout: archive
+author_profile: true
 title: "Internship with PFG"
 excerpt: "My internship experience with PFG involved data protection technologies across the technical spectrum<br/><img src='/images/puzzle.png'>"
 collection: projects

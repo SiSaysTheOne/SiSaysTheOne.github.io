@@ -1,4 +1,6 @@
 ---
+layout: archive
+author_profile: true
 title: "FireBot"
 excerpt: "Embedded systems project emulating a remote-controlled firetruck<br/><img src='/images/firebot.png'>"
 collection: projects

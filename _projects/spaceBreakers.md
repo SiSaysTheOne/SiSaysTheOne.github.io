@@ -1,4 +1,6 @@
 ---
+layout: archive
+author_profile: true
 title: "SpaceBreakers"
 excerpt: "A Galaga-style game with smooth ememy paths<br/><img src='/images/spaceBreakers.png'>"
 collection: projects
