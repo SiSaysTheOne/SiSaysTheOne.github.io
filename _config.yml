@@ -30,7 +30,8 @@ author:
   location         : "Ames, IA"
   employer         : "Iowa State University"
   uri              : # URL
-  email            : "weyderts@iastate.edu" # TODO: include both professional and academic email
+  email            : "simonweydert.career@iastate.edu"
+  academic-email   : "weyderts@iastate.edu"
 
   # Academic websites
   academia         : # URL

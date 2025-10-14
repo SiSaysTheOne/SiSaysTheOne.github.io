@@ -2,7 +2,7 @@
 layout: archive
 author_profile: true
 title: "MIPS single-cycle and multi-cycle processors"
-excerpt: "Team-designed processors implementing the MIPS ISA<br/><img src='/images/mips-processor-high-level.png'>"
+excerpt: "Team-designed processors implementing the MIPS ISA<br/><img style='height: 300px; width: auto' src='/images/mips-processor-high-level.png'>"
 collection: projects
 ---
 

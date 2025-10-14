@@ -12,6 +12,4 @@ A great friend of mine, Camden Fergen, and I worked on a project to measure the 
 
 We used a BeagleBone Black development board, which provided enough room for a Debian install, the database libraries, and the small testing framework we developed to be loaded onto the board. To develop the testing framework, we modified YCSB, an existing database performance tool, then compiled it down into a small executable. 
 
-<div class="paper-download-link">
-  <a href="{{ base_path }}/files/CPRE563_Final_Report.pdf" class="btn btn--primary">View paper as PDF</a>
-</div>
+{% include pdf_object.html filename="CPRE563_Project_Final_Report.pdf" %}

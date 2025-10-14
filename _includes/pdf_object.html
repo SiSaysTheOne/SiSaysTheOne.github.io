@@ -1,0 +1,9 @@
+{% include base_path %}
+
+<div class="embedded-pdf">
+  <embed src="{{ include.basepath }}/files/{{ include.filename }}" type="application/pdf" width="100%" style="height: 80vh" />
+</div>
+
+<div class="download-link">
+  <a href="{{ include.basepath }}/files/{{ include.filename }}" class="btn btn--primary">View file as PDF</a>
+</div>
