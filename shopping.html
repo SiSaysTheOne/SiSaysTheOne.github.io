@@ -1,0 +1,42 @@
+---
+layout: default
+title: Shopping list
+permalink: /shopping/
+---
+<div id="shopping">
+{% for group in site.data.shopping %}
+<h3>{{ group.section }}</h3>
+<ul>
+{% for item in group.items %}
+    {% assign name = item.name | default: item %}
+    <li>
+        <label><input type="checkbox" data-key="{{ group.section | slugify }}/{{ name | slugify }}"> {{ name }}</label>
+        {% if item.note %}<br><small>{{ item.note }}</small>{% endif %}
+    </li>
+{% endfor %}
+</ul>
+{% endfor %}
+<button id="reset">Uncheck all</button>
+</div>
+
+<style>
+#shopping ul { list-style: none; padding: 0; }
+#shopping input:checked + * , #shopping label:has(input:checked) { text-decoration: line-through; opacity: .5; }
+</style>
+
+<!-- TODO: Determine what repos this pulls from and credit -->
+
+<script>
+(() => {
+const KEY = 'shopping-checked';
+let state = {};
+try { state = JSON.parse(localStorage.getItem(KEY)) || {}; } catch {}
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch {} };
+const boxes = document.querySelectorAll('#shopping input[data-key]');
+boxes.forEach(b => {
+    b.checked = !!state[b.dataset.key];
+    b.addEventListener('change', () => { state[b.dataset.key] = b.checked; save(); });
+});
+document.getElementById('reset').onclick = () => { state = {}; save(); boxes.forEach(b => b.checked = false); };
+})();
+</script>
