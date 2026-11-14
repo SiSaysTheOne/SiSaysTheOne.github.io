@@ -18,10 +18,14 @@ I'm not one for buying plastic modls and other stuff that junks up my space. Sim
 Don't like any of the ingredients here? Fuck em. Use your own, I'm not your Mom, and you're a free-wheeling Apache, motherfucker!
 
 ## Sources of inspiration
-- 
+- https://www.allrecipes.com/recipe/143168/fresh-fruit-and-yogurt-ice-pops/
+- https://www.reddit.com/r/Cooking/comments/1lhu01c/how_to_make_super_hard_ice_cream_at_home/
+- https://food52.com/recipes/89449-swirly-fruit-creamsicles
+- https://www.lifeloveandsugar.com/copycat-dairy-queen-ice-cream-cake/
+
 
 ## Ingredients
-- 
+- Magic Shell
 
 ## Method
 - 
