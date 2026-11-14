@@ -15,7 +15,7 @@
 
 I'm not one for buying plastic modls and other stuff that junks up my space. Simultaneously, homemade popscicles can be really good. So this recipe can be followed in any container. The thinner and taller it is, the more tedious it'll be, but the more layer's you'll have. Thin layers are best; they make the each bite feel more crisp.
 
-Don't like any of the ingredients here? Fuck em. Use your own, I'm not your Mom, and you're a free-wheeling Apache, motherfucker!
+Don't like any of the ingredients here? Fuck em. Use your own, I'm not your Mom, and you're a free-wheeling Apache, motherfucker! Just make sure everything sticks together. (That's the reason I'm using tough ice cream; too soft and the layers fall apart.)
 
 ## Sources of inspiration
 - https://www.allrecipes.com/recipe/143168/fresh-fruit-and-yogurt-ice-pops/
@@ -43,7 +43,7 @@ Don't like any of the ingredients here? Fuck em. Use your own, I'm not your Mom,
 
 # 1. This cookie was revealed to me in a dream.
 
-What a glorious dream. Not my dream, aparently mine aren't powerful enough to summon divine culinary epiphanies.
+What a glorious dream. But not my dream... Apparently mine aren't powerful enough to summon divine culinary epiphanies.
 
 My adaptation is much less artful; it concerns the body of the cookie, not its appearence. The graham cracker isn't used as a fourish, but as a firm component in an outherwise soft cookie. Something to give a bit a little resistance. Same with the almond bark. Adding graham cracker bits to the surface right out of the oven certainly don't hurt tho.
 
@@ -56,6 +56,10 @@ The Lemon blondie to cheesecake ration si up to you. I don't mind a blondie:chee
 ## Ingredients: Additives
 - Almond bark or White chocolate (I'm partial to almond bark; easy to store (it's just a fucking rectangle), cheap to buy. Baking with this many ingredients, you don't really need to worry about the quality of the smaller components.)
 - Graham Crackers
+
+## Ingredients: Cheesecake
+
+## Ingredients: Lemon Blondie
 
 ## Method: Cheesecake
 
